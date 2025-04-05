@@ -23,6 +23,8 @@ datos = [
     {"FECHA": "21/03/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1lmvb0KFkd9BlqC9CJ1hvsNJciDwx-Fm_/view?usp=sharing"},
     {"FECHA": "27/03/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1xS7s9cuWvXpySwYrGCd-uc5UXB3McCIG/view?usp=sharing"},
     {"FECHA": "03/04/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1pHp8T7vAJFPSfnW5D0M8sBdFsn1JiwiM/view?usp=sharing"},
+    {"FECHA": "04/04/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1h70vzWmZysixfHI9OuxDOT2MI0N2ZeYV/view?usp=sharing"},
+
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
