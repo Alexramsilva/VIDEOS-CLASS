@@ -24,7 +24,11 @@ datos = [
     {"FECHA": "27/03/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1xS7s9cuWvXpySwYrGCd-uc5UXB3McCIG/view?usp=sharing"},
     {"FECHA": "03/04/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1pHp8T7vAJFPSfnW5D0M8sBdFsn1JiwiM/view?usp=sharing"},
     {"FECHA": "04/04/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1h70vzWmZysixfHI9OuxDOT2MI0N2ZeYV/view?usp=sharing"},
-
+    {"FECHA": "04/04/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1h70vzWmZysixfHI9OuxDOT2MI0N2ZeYV/view?usp=sharing"},
+    {"FECHA": "05/04/2025", "GRUPO": 204, "UCA": "ESTADÍSTICA DESCRIPTIVA", "LIGA": "https://drive.google.com/file/d/1UefyTapRDf8FnmVYLMDcuT8-BQGKBhge/view?usp=sharing"},
+    {"FECHA": "08/04/2025", "GRUPO": 102, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1xYrZZSEIdyLuWzZdiyAjw-kxFseAHiRs/view?usp=sharing"},
+    {"FECHA": "09/04/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1U6cWnDgAAJSdRu-ArcU3-fSlB48axPm8/view?usp=sharing"},
+    {"FECHA": "10/04/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1YHxH9OQ-av91Sb_EAqTsw0osNwcqI_T5/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
