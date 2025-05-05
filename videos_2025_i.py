@@ -30,6 +30,18 @@ datos = [
     {"FECHA": "09/04/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1U6cWnDgAAJSdRu-ArcU3-fSlB48axPm8/view?usp=sharing"},
     {"FECHA": "10/04/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1YHxH9OQ-av91Sb_EAqTsw0osNwcqI_T5/view?usp=sharing"},
     {"FECHA": "11/04/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1i3xoix5KkYgRS3-1QXmVUdCieqeKRdJn/view?usp=sharing"},
+    {"FECHA": "12/04/2025", "GRUPO": 204, "UCA": "ESTADÍSTICA DESCRIPTIVA", "LIGA": "https://drive.google.com/file/d/1G6jmlksReW5KUe2Rrpi5EAmfPEUM9U_i/view?usp=sharing"},
+    {"FECHA": "22/04/2025", "GRUPO": 102, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1rSc3e5UOTiLj4zE4UoeimUPKJZRyVIzS/view?usp=sharing"},
+    {"FECHA": "23/04/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1Il4e63_0xX9eOPPhCoNN3uqaXbUXeeMg/view?usp=sharing"},
+    {"FECHA": "24/04/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1FUhdYh9xGo5BwUqj0ZjQM5JDbv8q9_p0/view?usp=sharing"},
+    {"FECHA": "25/04/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/113gbdovgNNVr2PCBNIoBbGN61CFJZ1hH/view?usp=sharing"},
+    {"FECHA": "26/04/2025", "GRUPO": 204, "UCA": "ESTADÍSTICA DESCRIPTIVA", "LIGA": "https://drive.google.com/file/d/12kCwe1xAyORXXo4Wf269TGgxgiGN11i1/view?usp=sharing"},
+    {"FECHA": "29/04/2025", "GRUPO": 102, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1OxSXHfkE-v2u5Vr1BZjGOr0dMJNZmWbW/view?usp=sharing"},
+    {"FECHA": "30/04/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/11iAExV9LHt0OMrxv3yO-KII86gsnF6hr/view?usp=sharing"},
+    {"FECHA": "02/05/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/19xbHIwGrBvDrFDhITeFcnUQB_gKSJNeu/view?usp=sharing"},
+    {"FECHA": "03/05/2025", "GRUPO": 204, "UCA": "ESTADÍSTICA DESCRIPTIVA", "LIGA": "https://drive.google.com/file/d/1H1L2VPuBf9amvuf08yKVjy6-o5drG_0d/view?usp=sharing"},
+
+
 
 ]
 
