@@ -43,9 +43,10 @@ datos = [
     {"FECHA": "06/05/2025", "GRUPO": 102, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1xF4iQLTt84VoEWh7Mi0E9rkrhOLg7Pw9/view?usp=sharing"},
     {"FECHA": "07/05/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1p2aD-aBCJ38LbGNcTLvEfG8Z51N-B7at/view?usp=sharing"},
     {"FECHA": "08/05/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1-mWum62fjAA0bV9in5JuA3O_URWSK8b1/view?usp=sharing"},
-
-
-
+    {"FECHA": "09/05/2025", "GRUPO": 101, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1NLLy7BXy6OhAm4EaT8hn_awxPSyWAQBz/view?usp=sharing"},
+    {"FECHA": "10/05/2025", "GRUPO": 204, "UCA": "ESTADÍSTICA DESCRIPTIVA", "LIGA": "https://drive.google.com/file/d/1tzpgHPw_mJJny7LnH2t5j9SAj2n-ki4K/view?usp=sharing"},
+    {"FECHA": "13/05/2025", "GRUPO": 102, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1bbb70DuEUU-2sg5JFHQYuxwUHhMhO9tW/view?usp=sharing"},
+    {"FECHA": "14/05/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1kx3-G7oZr3XK46D_rELJRjiWpTvO42wU/view?usp=sharing"},
 
 ]
 
