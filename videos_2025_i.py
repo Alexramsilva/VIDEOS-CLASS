@@ -58,7 +58,6 @@ datos = [
     {"FECHA": "28/05/2025", "GRUPO": 207, "UCA": "SISTEMAS CONTABLES DE INFORMACIÓN FINANCIERA", "LIGA": "https://drive.google.com/file/d/1mI_ZY7CA7jn7tY4v7mPP0cPBpN1Rk98I/view?usp=sharing"},
     {"FECHA": "29/05/2025", "GRUPO": 103, "UCA": "MÉTODOS CUANTITATIVOS", "LIGA": "https://drive.google.com/file/d/1yGIVy_Lh0IFT77FkroY0QZ72R5yzgkRN/view?usp=sharing"},
 
-
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
