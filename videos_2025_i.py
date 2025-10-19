@@ -47,7 +47,7 @@ datos = [
 
 # Convertir a DataFrame para facilitar el filtrado
 df = pd.DataFrame(datos)
-st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=550)
+st.image("UNRC.png", caption="Universidad Nacional Rosario Castellanos", width=300)
 st.title("Repositorio de Videos de Clase")
 st.write("Selecciona tu grupo, fecha y materia para ver el video.")
 
