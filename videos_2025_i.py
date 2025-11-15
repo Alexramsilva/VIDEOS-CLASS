@@ -48,10 +48,13 @@ datos = [
 {"FECHA": "27/10/2025", "GRUPO": 303, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1ZsMzYfkDnQIVwqJ0AXuj8SGj6erd8KbF/view?usp=sharing"},
 {"FECHA": "27/10/2025", "GRUPO": 307, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1_X3f6DRghAoHMz4q_uGDRLImM0INWFkW/view?usp=sharing"},
 {"FECHA": "30/10/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/14Uns2GEAPRXSY_l67djOFnzHtreuw2KD/view?usp=sharing"},
+{"FECHA": "03/11/2025", "GRUPO": 303, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/15482nQY0hquNhgnyU5r4ZOLG24zmEQRb/view?usp=sharing"},
+{"FECHA": "03/11/2025", "GRUPO": 307, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1glKd9r3Q6dOj279liwVjA6wFj-3581AF/view?usp=sharing"},
+{"FECHA": "06/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1ZW4Ej7MSH-MSPGTLBp6eirrSHAcJctK3/view?usp=sharing"},
+{"FECHA": "08/11/2025", "GRUPO": 301, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1lSZDbk39V_dDUBfO5olTf1KKkMXL7gVa/view?usp=sharing"},
+{"FECHA": "08/11/2025", "GRUPO": 201, "UCA": "DESARROLLO SOSTENIBLE, EQUIDAD Y RESPONSABILIDAD SOCIAL", "LIGA": "https://drive.google.com/file/d/133rjn-WFrkUfJcPrhpa2O3p76qcgsEch/view?usp=sharing"},
+{"FECHA": "13/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1-YaePsfUPX0voHKM0qhD5agc1Y_JpiwF/view?usp=sharing"},
     
-    
-
-
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
