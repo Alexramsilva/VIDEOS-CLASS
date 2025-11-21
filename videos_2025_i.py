@@ -56,7 +56,7 @@ datos = [
 {"FECHA": "13/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1-YaePsfUPX0voHKM0qhD5agc1Y_JpiwF/view?usp=sharing"},
 {"FECHA": "15/11/2025", "GRUPO": 301, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/14nOhh-IGSvG89_e6BuTLZeVf2tvcuExe/view?usp=sharing"},
 {"FECHA": "15/11/2025", "GRUPO": 201, "UCA": "DESARROLLO SOSTENIBLE, EQUIDAD Y RESPONSABILIDAD SOCIAL", "LIGA": "https://drive.google.com/file/d/1VMzROg4N0Zb-pIVZ4d77pWSKYUpfQi0a/view?usp=sharing"},
-{"FECHA": "20/11/2025", "GRUPO": 302-COY, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1bNFAPy4ItvI6RrWzd4GeqNW8a24u4AzI/view?usp=sharing"},
+{"FECHA": "20/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1bNFAPy4ItvI6RrWzd4GeqNW8a24u4AzI/view?usp=sharing"},
     
     
     
