@@ -57,7 +57,14 @@ datos = [
 {"FECHA": "15/11/2025", "GRUPO": 301, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/14nOhh-IGSvG89_e6BuTLZeVf2tvcuExe/view?usp=sharing"},
 {"FECHA": "15/11/2025", "GRUPO": 201, "UCA": "DESARROLLO SOSTENIBLE, EQUIDAD Y RESPONSABILIDAD SOCIAL", "LIGA": "https://drive.google.com/file/d/1VMzROg4N0Zb-pIVZ4d77pWSKYUpfQi0a/view?usp=sharing"},
 {"FECHA": "20/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1bNFAPy4ItvI6RrWzd4GeqNW8a24u4AzI/view?usp=sharing"},
+{"FECHA": "22/11/2025", "GRUPO": 301, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1KYGQqVM9_FXRfx8T9VSjHGx4Xc2Z6J9A/view?usp=sharing"},
+{"FECHA": "22/11/2025", "GRUPO": 201, "UCA": "DESARROLLO SOSTENIBLE, EQUIDAD Y RESPONSABILIDAD SOCIAL", "LIGA": "https://drive.google.com/file/d/1xQihnL-1lwHU-GW4MIg1kcIpvU3zVBlL/view?usp=sharing"},
 {"FECHA": "24/11/2025", "GRUPO": 303, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1wK0u8A3AFBaVShB0JHXNCqiDCjd6FSQf/view?usp=sharing"},
+{"FECHA": "24/11/2025", "GRUPO": 307, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1ujHkjNgef1AbEDn9KIepYFtWqJc8i3ra/view?usp=sharing"},
+{"FECHA": "27/11/2025", "GRUPO": 302, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1cmFfGDh9Ty6M33OIjINM4DY3kTkx5hkI/view?usp=sharing"},
+{"FECHA": "29/11/2025", "GRUPO": 301, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1j4L1bjNWzsAyh4R9VUP3SvVX6Y3S4MJF/view?usp=sharing"},
+{"FECHA": "29/11/2025", "GRUPO": 201, "UCA": "DESARROLLO SOSTENIBLE, EQUIDAD Y RESPONSABILIDAD SOCIAL", "LIGA": "https://drive.google.com/file/d/18V2ciZY1A-WTp3bE3nKhk-e4WQ8C85rL/view?usp=sharing"},
+{"FECHA": "01/12/2025", "GRUPO": 303, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1-XygijleDzc2qkJVRpmUH2BuHqkmscm-/view?usp=sharing"},
     
     
     
