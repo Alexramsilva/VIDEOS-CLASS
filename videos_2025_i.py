@@ -12,14 +12,14 @@ import pandas as pd
 
 # Datos directamente en el código
 datos = [
-{"FECHA": "04/03/2026", "GRUPO": 409-GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1s0XXophM_3qSHNuWFkIrYBZ0FHshKhl2/view?usp=sharing"},
-{"FECHA": "05/03/2026", "GRUPO": 403-COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1Em6-1KmTt26oQNBG4BWOFUKSzYq9gpmt/view?usp=sharing"},
+{"FECHA": "04/03/2026", "GRUPO": 409_GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1s0XXophM_3qSHNuWFkIrYBZ0FHshKhl2/view?usp=sharing"},
+{"FECHA": "05/03/2026", "GRUPO": 403_COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1Em6-1KmTt26oQNBG4BWOFUKSzYq9gpmt/view?usp=sharing"},
 {"FECHA": "05/03/2026", "GRUPO": 406-COY, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1sflNu09VvxTwHZvlSVZ1wIjWkQMZc1zD/view?usp=sharing"},
-{"FECHA": "09/03/2023", "GRUPO": 404-UST, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1GO0Hn5eKStYjYxqGtLRbAbe6arLUgLGk/view?usp=sharing"},
-{"FECHA": "09/03/2023", "GRUPO": 304-UST, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1-GBqWLMHgPA9SuoMfamnjTxWGPN8GdSs/view?usp=sharing"},
-{"FECHA": "11/03/2026", "GRUPO": 409-GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/12fSvx5TXB_gO_dqlSKR92HaO4HGn_VXh/view?usp=sharing"},
-{"FECHA": "12/03/2026", "GRUPO": 403-COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1L6E8S7JzlV7ueRkJZOhdG_WoInoL5jfe/view?usp=sharing"},
-{"FECHA": "12/03/2026", "GRUPO": 406-COY, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1_CHNWp5vL_o2rFlUj_ziio_NQMIrY0Tu/view?usp=sharing"},
+{"FECHA": "09/03/2023", "GRUPO": 404_UST, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1GO0Hn5eKStYjYxqGtLRbAbe6arLUgLGk/view?usp=sharing"},
+{"FECHA": "09/03/2023", "GRUPO": 304_UST, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1-GBqWLMHgPA9SuoMfamnjTxWGPN8GdSs/view?usp=sharing"},
+{"FECHA": "11/03/2026", "GRUPO": 409_GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/12fSvx5TXB_gO_dqlSKR92HaO4HGn_VXh/view?usp=sharing"},
+{"FECHA": "12/03/2026", "GRUPO": 403_COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1L6E8S7JzlV7ueRkJZOhdG_WoInoL5jfe/view?usp=sharing"},
+{"FECHA": "12/03/2026", "GRUPO": 406_COY, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1_CHNWp5vL_o2rFlUj_ziio_NQMIrY0Tu/view?usp=sharing"},
     
 ]
 
