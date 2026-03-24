@@ -20,11 +20,11 @@ datos = [
 {"FECHA": "11/03/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/12fSvx5TXB_gO_dqlSKR92HaO4HGn_VXh/view?usp=sharing"},
 {"FECHA": "12/03/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1L6E8S7JzlV7ueRkJZOhdG_WoInoL5jfe/view?usp=sharing"},
 {"FECHA": "12/03/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1_CHNWp5vL_o2rFlUj_ziio_NQMIrY0Tu/view?usp=sharing"},
-{"FECHA": "18/03/2026", "GRUPO": 409-GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1EIXSr_p1WTM3H-OljmrlP_w9oVNrbW70/view?usp=sharing"},
-{"FECHA": "19/03/2026", "GRUPO": 403-COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1I3yzPe-NtcnNdf9IK649wF3e4f56D2qL/view?usp=sharing"},
-{"FECHA": "19/03/2026", "GRUPO": 406-COY, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/14FU-PPcy7nslokFbsqi_GU1FCoDDLKA5/view?usp=sharing"},
-{"FECHA": "23/03/2026", "GRUPO": 404-UST, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1L1iDex468ffeopqyB2mSF-FuxSHYXlit/view?usp=sharing"},
-{"FECHA": "23/03/2026", "GRUPO": 304-UST, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1VWIFeGxRq6cRI-u9xamAIaf2x3CZG9TZ/view?usp=sharing"},
+{"FECHA": "18/03/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1EIXSr_p1WTM3H-OljmrlP_w9oVNrbW70/view?usp=sharing"},
+{"FECHA": "19/03/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1I3yzPe-NtcnNdf9IK649wF3e4f56D2qL/view?usp=sharing"},
+{"FECHA": "19/03/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/14FU-PPcy7nslokFbsqi_GU1FCoDDLKA5/view?usp=sharing"},
+{"FECHA": "23/03/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1L1iDex468ffeopqyB2mSF-FuxSHYXlit/view?usp=sharing"},
+{"FECHA": "23/03/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1VWIFeGxRq6cRI-u9xamAIaf2x3CZG9TZ/view?usp=sharing"},
   
 ]
 
