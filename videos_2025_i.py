@@ -25,12 +25,12 @@ datos = [
 {"FECHA": "19/03/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/14FU-PPcy7nslokFbsqi_GU1FCoDDLKA5/view?usp=sharing"},
 {"FECHA": "23/03/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1L1iDex468ffeopqyB2mSF-FuxSHYXlit/view?usp=sharing"},
 {"FECHA": "23/03/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1VWIFeGxRq6cRI-u9xamAIaf2x3CZG9TZ/view?usp=sharing"},
-{"FECHA": "25/03/2026", "GRUPO": 409-GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1VrbDs6X3OoBTmbcUR9SPjZqjJdwQz-R2/view?usp=sharing"},
-{"FECHA": "26/03/2026", "GRUPO": 403-COY, "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1kKlJn_09aMDqr-zxfJD2N-TSLO61l1-_/view?usp=sharing"},
-{"FECHA": "26/03/2026", "GRUPO": 406-COY, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1walmC-mFdfUFjKVulkY-Tyx4_CbkJ1Xv/view?usp=sharing"},
-{"FECHA": "30/03/2026", "GRUPO": 404-UST, "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1FPTejifQrYOSUU_TaTarhSi-lX27Y7sG/view?usp=sharing"},
-{"FECHA": "30/03/2026", "GRUPO": 304-UST, "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1_gQwz8QmzJhpY-hbAcu7tgcBkBV34sHd/view?usp=sharing"},
-{"FECHA": "01/04/2026", "GRUPO": 409-GAM, "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1eSy9NMDGTKlsGsR83fXWwbK4D-PTIuLD/view?usp=sharing"},  
+{"FECHA": "25/03/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1VrbDs6X3OoBTmbcUR9SPjZqjJdwQz-R2/view?usp=sharing"},
+{"FECHA": "26/03/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1kKlJn_09aMDqr-zxfJD2N-TSLO61l1-_/view?usp=sharing"},
+{"FECHA": "26/03/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1walmC-mFdfUFjKVulkY-Tyx4_CbkJ1Xv/view?usp=sharing"},
+{"FECHA": "30/03/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1FPTejifQrYOSUU_TaTarhSi-lX27Y7sG/view?usp=sharing"},
+{"FECHA": "30/03/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1_gQwz8QmzJhpY-hbAcu7tgcBkBV34sHd/view?usp=sharing"},
+{"FECHA": "01/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1eSy9NMDGTKlsGsR83fXWwbK4D-PTIuLD/view?usp=sharing"},  
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
