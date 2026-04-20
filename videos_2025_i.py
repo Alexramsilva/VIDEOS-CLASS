@@ -31,6 +31,16 @@ datos = [
 {"FECHA": "30/03/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1FPTejifQrYOSUU_TaTarhSi-lX27Y7sG/view?usp=sharing"},
 {"FECHA": "30/03/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1_gQwz8QmzJhpY-hbAcu7tgcBkBV34sHd/view?usp=sharing"},
 {"FECHA": "01/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1eSy9NMDGTKlsGsR83fXWwbK4D-PTIuLD/view?usp=sharing"},  
+{"FECHA": "06/04/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1CbnaNO2F1j9OeDs_ZTbenO0_D2Ek8gSf/view?usp=sharing"},
+{"FECHA": "06/04/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1cpRPKMC4flu7RH0F3CS8aP0ybLETGO-l/view?usp=sharing"},
+{"FECHA": "08/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1vZDToZszByilcoGZuHWypW6rXWx1_M5c/view?usp=sharing"},
+{"FECHA": "09/04/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1St-MgDZPx1OiH2bSJAvbHnGkLGofEoo7/view?usp=sharing"},
+{"FECHA": "13/04/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1QlSzT1_5LXVlPwHp9uBRzJ5lxQtu-fYh/view?usp=sharing"},
+{"FECHA": "13/04/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/13ZVEu-fhqXYqE5hk97CUtwKYRVK-_GvF/view?usp=sharing"},
+{"FECHA": "15/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1cOPlfIRFpFLgO31uz9d6a9R7Z4M3ou8l/view?usp=sharing"},
+{"FECHA": "16/04/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1oP_F2vYPv6ug0ZsXEo2OJj8URSLh2Oc_/view?usp=sharing"},
+{"FECHA": "16/04/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1MVCkcd_uhDbP-rKAPLfcsO-g2QXtx5j-/view?usp=sharing"},
+
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
