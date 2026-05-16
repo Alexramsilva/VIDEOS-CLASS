@@ -43,6 +43,16 @@ datos = [
 {"FECHA": "22/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1YAeV4QYXWUEiUmgAiewco1U0zgp2KyNY/view?usp=sharing"},
 {"FECHA": "23/04/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1q86V-JXUX9_Xz-vLc8i9FCn7vWdp6M14/view?usp=sharing"},
 {"FECHA": "23/04/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1YurlaGocWVKVgYHyKSoRQEyShKh1gcas/view?usp=sharing"},
+{"FECHA": "27/04/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1ztsN-0zP-Vcd9eFSTbpUCvh03RC0yW5L/view?usp=sharing"},
+{"FECHA": "27/04/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1iqcOqHm_nAtfNumRp6TjsVgVYf6Sav5e/view?usp=sharing"},
+{"FECHA": "29/04/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1KuwFAprUj6qbBi1cRyddc59mq2gyuUNP/view?usp=sharing"},
+{"FECHA": "30/04/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/18kv8ATX8LNkhIilSPMervH_G0gzBTn_b/view?usp=sharing"},
+{"FECHA": "30/04/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1-2HtA6U6yQ5OZzVl4zHu3gzqBhETbitw/view?usp=sharing"},
+{"FECHA": "02/05/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1nNQpKO28c1S-wOs1wnRRg9ZXrH_ZhTpN/view?usp=sharing"},
+{"FECHA": "04/05/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/16x-FigLOqEckmkqhzJcugiI-ieXKrnAL/view?usp=sharing"},
+{"FECHA": "04/05/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/15ifpiopOusKj83apE1klFetA6uZZXMUf/view?usp=sharing"},
+{"FECHA": "06/05/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/10nl5YZtPqxfGPJtEdp8dR6ppb0s-Cx9k/view?usp=sharing"},
+{"FECHA": "07/05/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1a2QhVekBXnYQzpSRHHeZEPCINhhnehIQ/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
