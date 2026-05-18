@@ -53,6 +53,12 @@ datos = [
 {"FECHA": "04/05/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/15ifpiopOusKj83apE1klFetA6uZZXMUf/view?usp=sharing"},
 {"FECHA": "06/05/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/10nl5YZtPqxfGPJtEdp8dR6ppb0s-Cx9k/view?usp=sharing"},
 {"FECHA": "07/05/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1a2QhVekBXnYQzpSRHHeZEPCINhhnehIQ/view?usp=sharing"},
+{"FECHA": "07/05/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/10WaEykGwUhViKqjv_i9HTpsqEe6DyVp-/view?usp=sharing"},
+{"FECHA": "11/05/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1yMVWxhs2bnLoXJcsNdd2ttvEdIG7t2gp/view?usp=sharing"},
+{"FECHA": "11/05/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1PoDO0gGWTWBpJ0zHBtpX_hPzG5PPc3XE/view?usp=sharing"},
+{"FECHA": "13/05/2026", "GRUPO": "409-GAM", "UCA": "LABORATORIO DE INNOVACIÓN SOCIAL", "LIGA": "https://drive.google.com/file/d/1j2FaMM_0H94XEQX2nBHz667FXVtQk3Fv/view?usp=sharing"},
+{"FECHA": "14/05/2026", "GRUPO": "403-COY", "UCA": "FINANZAS BÁSICAS", "LIGA": "https://drive.google.com/file/d/1caJG6E9AJZb8X5uBwxSQr38CWggXqxmP/view?usp=sharing"},
+{"FECHA": "14/05/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/198nEFv9qAH8VEuA46H7Ehxlmtxzafp7R/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
