@@ -66,6 +66,8 @@ datos = [
 {"FECHA": "21/05/2026", "GRUPO": "406-COY", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1BMx9FhgXYr1_5hdAk1nHGjb9LGMkZhQ3/view?usp=sharing"},
 {"FECHA": "25/05/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1q1UoUpetqHyVJEnNHMxTU5Y8uTeK0Qqc/view?usp=sharing"},
 {"FECHA": "25/05/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1uCqfXVvf7vgOs8c05kgXsSarT1ZZ79fm/view?usp=sharing"},
+{"FECHA": "01/06/2026", "GRUPO": "404-UST", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1kYbhugBubA2EKhiLZ4B-f9gTJrM7FBdP/view?usp=sharing"},
+{"FECHA": "01/06/2026", "GRUPO": "304-UST", "UCA": "PROBABILIDAD", "LIGA": "https://drive.google.com/file/d/1moqVDwKSdMP_hJx9_lf3VFx0IjjC7SuG/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
