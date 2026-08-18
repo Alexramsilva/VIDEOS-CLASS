@@ -12,7 +12,7 @@ import pandas as pd
 
 # Datos directamente en el código
 datos = [
-{"FECHA": "17/08/lunes", "GRUPO": Intersemestral, "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1__z60BQHjQyZ49QN9YEp7s8I1u-9AghN/view?usp=sharing"},
+{"FECHA": "17/08/lunes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1__z60BQHjQyZ49QN9YEp7s8I1u-9AghN/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
