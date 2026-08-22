@@ -14,6 +14,8 @@ import pandas as pd
 datos = [
 {"FECHA": "17/08/lunes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1__z60BQHjQyZ49QN9YEp7s8I1u-9AghN/view?usp=sharing"},
 {"FECHA": "19/08/miércoles", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/17cFLuDeYCGCb9D0ViJMh2P-oxGZ7pWki/view?usp=sharing"},
+{"FECHA": "21/08/viernes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1m28uj_tVr98uu6L5AfBXx_SJLsU2mc1T/view?usp=sharing"},
+    
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
