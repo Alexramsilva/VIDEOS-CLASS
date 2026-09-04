@@ -12,11 +12,9 @@ import pandas as pd
 
 # Datos directamente en el código
 datos = [
-{"FECHA": "17/08/lunes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1__z60BQHjQyZ49QN9YEp7s8I1u-9AghN/view?usp=sharing"},
-{"FECHA": "19/08/miércoles", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/17cFLuDeYCGCb9D0ViJMh2P-oxGZ7pWki/view?usp=sharing"},
-{"FECHA": "21/08/viernes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1m28uj_tVr98uu6L5AfBXx_SJLsU2mc1T/view?usp=sharing"},
-{"FECHA": "24/08/lunes", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1nXUd8Hedps8ClPuniEpesjqOVX38UhVT/view?usp=sharing"},    
-{"FECHA": "26/08/miércoles", "GRUPO": "Intersemestral", "UCA": "FINANZAS CORPORATIVAS", "LIGA": "https://drive.google.com/file/d/1aOb2fovbVAuG_nU18fEzaLKwbkV21bHi/view?usp=sharing"},
+{"FECHA": "03/09/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1XmIivJuZ15AfSmAvQ32u52fLzXbomiFv/view?usp=sharing"},
+{"FECHA": "04/09/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1-KXY8nThRmebfvqDvHewzQ8t_ZsMfUYI/view?usp=sharing"},
+{"FECHA": "04/09/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1HkkftHHUDuPMme-6V29RAldJ5OR4sjEc/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
