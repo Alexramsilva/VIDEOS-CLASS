@@ -20,7 +20,9 @@ datos = [
 {"FECHA": "11/09/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/11b4CLf3uN5tJQTMpjca7Gm80Knflh7tj/view?usp=sharing"},
 {"FECHA": "11/09/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1egFkD07nqhj9dpT4dAWhqRSQBsm6imJb/view?usp=sharing"},
 {"FECHA": "14/09/lunes", "GRUPO": "404-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1ZtRhJpAMx88-DW2JI3UP_PCB-1NTKMUA/view?usp=sharing"},
-    
+{"FECHA": "17/09/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/16QwkvHDka7EQ9xdjvNf5BjKnuS0vCdL0/view?usp=sharing"},
+{"FECHA": "18/09/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1hBcC66E24QxMYAtj280_zdnZZM_JB01j/view?usp=sharing"},
+{"FECHA": "18/09/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1Kwn5Zx4eF7ERtFcXCiutFvcXh7LNFtPN/view?usp=sharing"},    
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
