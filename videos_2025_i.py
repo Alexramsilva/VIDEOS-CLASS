@@ -39,6 +39,14 @@ datos = [
 {"FECHA": "15/10/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1xPq51ewoqS712GESt6b_s4x2dzGYnZEu/view?usp=sharing"},
 {"FECHA": "16/10/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1FtnyqpDEt_L_xt7iRp1xqIpc3jsljU6G/view?usp=sharing"},
 {"FECHA": "16/10/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1Fa_6YyNqSzA5fYzhZIN2VY6jrGpFGaX7/view?usp=sharing"},
+{"FECHA": "19/10/lunes", "GRUPO": "404-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1PAna8TEDmYs7mEHkr4eJq0GrdxIAiWqy/view?usp=sharing"},
+{"FECHA": "22/10/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1BauREWLPA8p550TcnwLR9qcCdvVp8npM/view?usp=sharing"},
+{"FECHA": "23/10/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1FA6O1If_fvVSNOZ459WV6nN3QcTUlxkp/view?usp=sharing"},
+{"FECHA": "23/10/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1c0qupBHfHHnOdDvAz6pxUvA2AROjZOJE/view?usp=sharing"},
+{"FECHA": "26/10/lunes", "GRUPO": "404-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1bM54pQVWpSnT7-Clt39cs_rTv5P4wGzj/view?usp=sharing"},
+{"FECHA": "29/10/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1diqB-68zzh2aL5GULa0sloz0DgcN0NZp/view?usp=sharing"},
+{"FECHA": "30/10/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1PYBJYU5iwsKKNGlbNdpp6Kqc5s2JL8J_/view?usp=sharing"},
+{"FECHA": "30/10/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1AZf8-tvz1hv19A5RyfldpV2b0y61bbdj/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
