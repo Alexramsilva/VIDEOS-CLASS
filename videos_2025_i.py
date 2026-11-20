@@ -50,10 +50,11 @@ datos = [
 {"FECHA": "05/11/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/17W5nlauHKRCeTcbTsbzhsVegXFFoAjYM/view?usp=sharing"},
 {"FECHA": "06/11/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1haq9yx4uSJGiVVvVHSDVUz8CqUmZnvmw/view?usp=sharing"},
 {"FECHA": "06/11/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1F50OBgnFYFT4E7Bz2bXfm7q1RUVWFIQl/view?usp=sharing"},
-{"FECHA": "09/10/viernes", "GRUPO": "404-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1DxjVKNFY2d4L2MNpMlFhIqnvJsegqNec/view?usp=sharing"},
-{"FECHA": "12/10/lunes", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1L5J45MwhRmRaUQc3rT_xyz-wCCTzzKju/view?usp=sharing"},
-{"FECHA": "13/10/martes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/16-WHIsOvO15jCODT9fDcLe_aNjtbyTyf/view?usp=sharing"},
-{"FECHA": "13/10/martes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1CwIyqPOX8aaMiZJzKzJ-528-Y4pXhsmp/view?usp=sharing"},
+{"FECHA": "09/11/lunes", "GRUPO": "404-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1DxjVKNFY2d4L2MNpMlFhIqnvJsegqNec/view?usp=sharing"},
+{"FECHA": "12/11/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1L5J45MwhRmRaUQc3rT_xyz-wCCTzzKju/view?usp=sharing"},
+{"FECHA": "13/11/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/16-WHIsOvO15jCODT9fDcLe_aNjtbyTyf/view?usp=sharing"},
+{"FECHA": "13/11/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1CwIyqPOX8aaMiZJzKzJ-528-Y4pXhsmp/view?usp=sharing"},
+{"FECHA": "19/11/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1cYOfHuA7hOdFmv3KJbQ7qrq7ed-QJORP/view?usp=sharing"},
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
