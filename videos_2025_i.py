@@ -55,6 +55,8 @@ datos = [
 {"FECHA": "13/11/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/16-WHIsOvO15jCODT9fDcLe_aNjtbyTyf/view?usp=sharing"},
 {"FECHA": "13/11/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1CwIyqPOX8aaMiZJzKzJ-528-Y4pXhsmp/view?usp=sharing"},
 {"FECHA": "19/11/jueves", "GRUPO": "403-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1cYOfHuA7hOdFmv3KJbQ7qrq7ed-QJORP/view?usp=sharing"},
+{"FECHA": "20/11/viernes", "GRUPO": "402-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/1NwpIfbGzrwuOtCkaeumSePjKzawore8a/view?usp=sharing"},
+{"FECHA": "20/11/viernes", "GRUPO": "401-GAM", "UCA": "INVESTIGACIÓN DE OPERACIONES", "LIGA": "https://drive.google.com/file/d/11zFhs8PC7PfYGgZytR6iC_-TG87OqRiq/view?usp=sharing"},    
 ]
 
 # Convertir a DataFrame para facilitar el filtrado
